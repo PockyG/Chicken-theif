@@ -1,0 +1,21 @@
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\circleTest.xnb
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\player.xnb
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\mirror.xnb
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\gridcell.xnb
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\chickenspritesheet.xnb
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\crosshair.xnb
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\road.xnb
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\shootbutton.xnb
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\bullet.xnb
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\tutorial.xnb
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\testFont.xnb
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\circleTest.png
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\player.png
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\mirror.jpg
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\gridcell.png
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\MirrorShooter.exe
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\MirrorShooter.pdb
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\obj\x86\Release\Chicken Thief.csprojResolveAssemblyReference.cache
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\obj\x86\Release\MirrorShooter.exe
+D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\obj\x86\Release\MirrorShooter.pdb

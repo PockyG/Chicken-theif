@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorShooter", "MirrorShooter\MirrorShooter\MirrorShooter.csproj", "{2D34C6DA-D0AB-4357-9337-BF132715B14F}"
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chicken Thief", "MirrorShooter\MirrorShooter\Chicken Thief.csproj", "{2D34C6DA-D0AB-4357-9337-BF132715B14F}"
 EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MirrorShooterContent", "MirrorShooter\MirrorShooterContent\MirrorShooterContent.contentproj", "{6E34A995-0382-4FCB-BD53-E8B5685790B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorShooterContent", "MirrorShooter\MirrorShooterContent\MirrorShooterContent.contentproj", "{6E34A995-0382-4FCB-BD53-E8B5685790B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
