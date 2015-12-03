@@ -1,0 +1,24 @@
+c:\users\lionel.kayasith\documents\visual studio 2012\Projects\MirrorShooter\MirrorShooter\MirrorShooter\bin\x86\Debug\MirrorShooter.exe
+c:\users\lionel.kayasith\documents\visual studio 2012\Projects\MirrorShooter\MirrorShooter\MirrorShooter\bin\x86\Debug\MirrorShooter.pdb
+c:\users\lionel.kayasith\documents\visual studio 2012\Projects\MirrorShooter\MirrorShooter\MirrorShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\lionel.kayasith\documents\visual studio 2012\Projects\MirrorShooter\MirrorShooter\MirrorShooter\obj\x86\Debug\MirrorShooter.exe
+c:\users\lionel.kayasith\documents\visual studio 2012\Projects\MirrorShooter\MirrorShooter\MirrorShooter\obj\x86\Debug\MirrorShooter.pdb
+c:\users\lionel.kayasith\documents\visual studio 2012\Projects\MirrorShooter\MirrorShooter\MirrorShooter\bin\x86\Debug\Content\circleTest.xnb
+c:\users\lionel.kayasith\documents\visual studio 2012\Projects\MirrorShooter\MirrorShooter\MirrorShooter\bin\x86\Debug\Content\player.xnb
+C:\Users\lionel.kayasith\documents\visual studio 2012\Projects\MirrorShooter\MirrorShooter\MirrorShooter\obj\x86\Debug\MirrorShooter.csprojResolveAssemblyReference.cache
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooter\bin\x86\Debug\Content\circleTest.xnb
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooter\bin\x86\Debug\Content\player.xnb
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooter\bin\x86\Debug\Content\mirror.xnb
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooter\bin\x86\Debug\Content\gridcell.xnb
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooter\bin\x86\Debug\Content\testFont.xnb
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooter\bin\x86\Debug\Content\circleTest.png
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooter\bin\x86\Debug\Content\player.png
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooter\bin\x86\Debug\Content\mirror.jpg
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooter\bin\x86\Debug\Content\gridcell.png
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooter\bin\x86\Debug\MirrorShooter.exe
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooter\bin\x86\Debug\MirrorShooter.pdb
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooter\obj\x86\Debug\MirrorShooter.csprojResolveAssemblyReference.cache
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooter\obj\x86\Debug\MirrorShooter.exe
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooter\obj\x86\Debug\MirrorShooter.pdb
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooter\bin\x86\Debug\Content\chickenspritesheet.xnb

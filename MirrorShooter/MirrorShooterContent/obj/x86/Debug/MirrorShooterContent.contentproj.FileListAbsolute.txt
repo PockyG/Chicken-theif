@@ -1,0 +1,2 @@
+C:\Users\lionel.kayasith\documents\visual studio 2012\Projects\MirrorShooter\MirrorShooter\MirrorShooterContent\obj\x86\Debug\MirrorShooterContent.contentprojResolveAssemblyReference.cache
+C:\Users\lionel.kayasith\Desktop\Chicken game\MirrorShooter\MirrorShooterContent\obj\x86\Debug\MirrorShooterContent.contentprojResolveAssemblyReference.cache

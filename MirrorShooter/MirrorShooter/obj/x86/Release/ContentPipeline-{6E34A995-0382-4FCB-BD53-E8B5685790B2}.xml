@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>circleTest.png</Source>
+      <Name>circleTest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\circleTest.xnb</Output>
+      <Time>2015-03-27T21:05:31.0696332+11:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\player.xnb</Output>
+      <Time>2015-03-27T20:07:15.46052+11:00</Time>
+    </Item>
+    <Item>
+      <Source>mirror.jpg</Source>
+      <Name>mirror</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\mirror.xnb</Output>
+      <Time>2015-03-28T14:52:47.169417+11:00</Time>
+    </Item>
+    <Item>
+      <Source>gridcell.png</Source>
+      <Name>gridcell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\gridcell.xnb</Output>
+      <Time>2015-03-28T19:04:34.1221769+11:00</Time>
+    </Item>
+    <Item>
+      <Source>chickenspritesheet.png</Source>
+      <Name>chickenspritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\chickenspritesheet.xnb</Output>
+      <Time>2015-06-27T16:44:22.614989+10:00</Time>
+    </Item>
+    <Item>
+      <Source>crosshair.png</Source>
+      <Name>crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\crosshair.xnb</Output>
+      <Time>2015-06-28T14:31:40.6120264+10:00</Time>
+    </Item>
+    <Item>
+      <Source>road.png</Source>
+      <Name>road</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\road.xnb</Output>
+      <Time>2015-06-28T14:48:42.1486227+10:00</Time>
+    </Item>
+    <Item>
+      <Source>shootbutton.png</Source>
+      <Name>shootbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\shootbutton.xnb</Output>
+      <Time>2015-06-28T15:34:24.0524304+10:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\bullet.xnb</Output>
+      <Time>2015-06-28T16:48:05.9725147+10:00</Time>
+    </Item>
+    <Item>
+      <Source>tutorial.png</Source>
+      <Name>tutorial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\tutorial.xnb</Output>
+      <Time>2015-06-28T17:14:46.1139274+10:00</Time>
+    </Item>
+    <Item>
+      <Source>testFont.spritefont</Source>
+      <Name>testFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\testFont.xnb</Output>
+      <Time>2015-03-29T13:17:31.9706754+11:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{6E34A995-0382-4FCB-BD53-E8B5685790B2}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooterContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\Finished games\Chicken game\Chicken-theif\MirrorShooter\MirrorShooter\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-08-29T21:15:45.3696595+10:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
