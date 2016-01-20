@@ -6,6 +6,6 @@ To play you will need XNA 4.0 redistributable installed.
 Download it here:
 https://www.microsoft.com/en-au/download/details.aspx?id=20914
 
-After unzipping
-Click on the shortcut named "Play" to start the game up.
+Download the game here:
+https://www.dropbox.com/s/kgo2w4k7jebmp2v/ChickenThief.rar?dl=0&preview=ChickenThief.rar
 
