@@ -7,5 +7,5 @@ Download it here:
 https://www.microsoft.com/en-au/download/details.aspx?id=20914
 
 Download the game here:
-https://www.dropbox.com/s/kgo2w4k7jebmp2v/ChickenThief.rar?dl=0&preview=ChickenThief.rar
+https://www.dropbox.com/s/kgo2w4k7jebmp2v/ChickenThief.rar?dl=0
 
