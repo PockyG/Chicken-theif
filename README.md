@@ -1,6 +1,6 @@
 # Chicken-thief
 
-A 2 player local game I made for a 2 day gamejam. Will probably add more gameplay to it in due time.
+A 2 player local game I made for a 2 day gamejam for school at AIE.
 
 To play you will need XNA 4.0 redistributable installed.
 Download it here:
